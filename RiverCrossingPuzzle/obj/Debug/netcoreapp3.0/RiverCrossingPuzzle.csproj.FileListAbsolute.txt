@@ -1,0 +1,11 @@
+/Users/nizarfteiha/Projects/RiverCrossingPuzzle/RiverCrossingPuzzle/bin/Debug/netcoreapp3.0/RiverCrossingPuzzle
+/Users/nizarfteiha/Projects/RiverCrossingPuzzle/RiverCrossingPuzzle/bin/Debug/netcoreapp3.0/RiverCrossingPuzzle.deps.json
+/Users/nizarfteiha/Projects/RiverCrossingPuzzle/RiverCrossingPuzzle/bin/Debug/netcoreapp3.0/RiverCrossingPuzzle.runtimeconfig.json
+/Users/nizarfteiha/Projects/RiverCrossingPuzzle/RiverCrossingPuzzle/bin/Debug/netcoreapp3.0/RiverCrossingPuzzle.runtimeconfig.dev.json
+/Users/nizarfteiha/Projects/RiverCrossingPuzzle/RiverCrossingPuzzle/bin/Debug/netcoreapp3.0/RiverCrossingPuzzle.dll
+/Users/nizarfteiha/Projects/RiverCrossingPuzzle/RiverCrossingPuzzle/bin/Debug/netcoreapp3.0/RiverCrossingPuzzle.pdb
+/Users/nizarfteiha/Projects/RiverCrossingPuzzle/RiverCrossingPuzzle/obj/Debug/netcoreapp3.0/RiverCrossingPuzzle.csprojAssemblyReference.cache
+/Users/nizarfteiha/Projects/RiverCrossingPuzzle/RiverCrossingPuzzle/obj/Debug/netcoreapp3.0/RiverCrossingPuzzle.AssemblyInfoInputs.cache
+/Users/nizarfteiha/Projects/RiverCrossingPuzzle/RiverCrossingPuzzle/obj/Debug/netcoreapp3.0/RiverCrossingPuzzle.AssemblyInfo.cs
+/Users/nizarfteiha/Projects/RiverCrossingPuzzle/RiverCrossingPuzzle/obj/Debug/netcoreapp3.0/RiverCrossingPuzzle.dll
+/Users/nizarfteiha/Projects/RiverCrossingPuzzle/RiverCrossingPuzzle/obj/Debug/netcoreapp3.0/RiverCrossingPuzzle.pdb
